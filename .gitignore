@@ -6,3 +6,5 @@
 .env
 key.json
 data*
+.csvS
+*.csv
