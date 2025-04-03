@@ -8,3 +8,4 @@ key.json
 data*
 .csvS
 *.csv
+*.geojson
